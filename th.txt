@@ -1,0 +1,131 @@
+python:
+high level prog lang:
+
+c --> low level prog
+java  --> high level prog
+
+
+compiler:
+methodology: oops, oops + pops 
+
+2 type prog:
+1)server side prog: c,cpp,java,python...
+    output console..
+2)client side: js,html, css
+
+typed of prog:
+c,c++,java -> data type: sattically typed prog lang: programmer
+python ,js -->dataype : dynamically typed: compiler
+
+data --->type -->data type
+
+code : save file -->store --> ext
+
+python -> .py
+
+
+[
+            sys0
+            printing
+                , bjk n lk 
+
+]
+
+[
+
+no extra space
+
+
+]
+varibale namig rules:
+
+
+int 
+float
+str
+bool
+NoneType
+
+no long
+no double
+no char
+
+
+when we dec variable in c,cpp,java --> it is not compulsary to assign a value
+
+
+operators:
+operators are the special symbol which can sue to perform operation on operand:
+
+type of operators:
+
+3) type of operators
+
+1)unery operators
+2)binery operators
+3)ternery operators
+
+
+python does not have unery operators: like a++ , ++a , a--, --a
+
+binery operators:
+1)arithmetic operators : +,-,*,/,//,**,%
+2)assignment operators: =, +=,-+,*=,/=,//=
+3)realtional operators : >,<,>=,<=,!=,==
+4)logical operators : and or not 
+5)memebership operators : in, not in
+6)identity operators : is, isnot
+
+
+
+decsion making statements:
+if else
+switch case (match case)
+loops
+
+c lang
+if(condition){
+    //if block
+}
+else{
+    //else bloack..
+}
+
+//tabl space --> indentation block
+if condition:
+    if body
+    .
+    .
+    .
+else:
+    else body
+    .
+    .
+    .    
+
+logical operators:
+&&,,||,!
+and or not
+
+cond1 and cond2
+T  ----> T --->T
+T ----->F_______F
+F_______________F
+
+cond1 or cond2
+T  ___________T
+F ---->T______T
+F----->F------>F
+
+
+loops:
+entery control loop
+    for while
+exit control loop
+    do while
+
+python does not  have exit control loop
+
+for,while
+
+
