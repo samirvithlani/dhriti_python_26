@@ -1,0 +1,11 @@
+name = " "
+print(name)
+print("isUpper ",name.isupper())
+print("isUpper ",name.islower())
+print(name.istitle())
+print(name.isalnum())
+print(name.isalpha())
+print(name.isnumeric())
+print(name.isdigit())
+print(name.isprintable())
+print(name.isspace())
