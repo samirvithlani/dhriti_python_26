@@ -137,4 +137,24 @@ name = "india"
 'x' -->-1
 
 
+python:
+list
+tuple
+set
+dict
 
+array:
+set of data with simlar data type:
+array static: 
+
+list:
+list is colllection of elements
+list use dynamic array in ds
+list is dynamic [no need to specify size of list]
+list is mutable
+list is iterable [loop]
+list is supscriptable[index data access]
+list is hetrogenious [diff kind of data in single list]
+list allows duplicate elements:
+data type of list is list
+we can use [] braces to declare list
