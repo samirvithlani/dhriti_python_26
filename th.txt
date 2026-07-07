@@ -158,3 +158,14 @@ list is hetrogenious [diff kind of data in single list]
 list allows duplicate elements:
 data type of list is list
 we can use [] braces to declare list
+
+
+
+please enter name:
+raj
+please enter name:
+parth
+please enter name:
+exit
+
+["raj","parth"]
