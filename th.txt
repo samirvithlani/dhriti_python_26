@@ -169,3 +169,12 @@ please enter name:
 exit
 
 ["raj","parth"]
+
+taks:
+
+remove duplicate elemets from list
+
+employees = ["raj","amit","parth","kunal","raj","parth","neha"]
+
+
+
