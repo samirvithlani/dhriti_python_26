@@ -175,6 +175,40 @@ taks:
 remove duplicate elemets from list
 employees = ["raj","amit","parth","kunal","raj","parth","neha"]
 
+tuple
+
+tuple is colllection of elements
+tuple use dynamic array in ds
+tuple is dynamic [no need to specify size of list]
+tuple  is immumutable
+""     is iterable [loop]
+""     is supscriptable[index data access]
+""     is hetrogenious [diff kind of data in single list]
+""     allows duplicate elements:
+data type of tuple is tuple
+we can use () braces to declare tuple
+
+---->
+
+10 players  --> list
+welecome to choose team
+captain1 ,captain2
+
+welcome captain1 please choose your team 
+
+10 player names -->
+press position numbers 1 by 1 to select your players
+
+1 3 4 5 8  ---> player --> captain1
+remainng ---> player --> captain 2
+
+
+team1 --> []
+team2 --> []
+
+
+
+
 
 
 
