@@ -207,6 +207,42 @@ team1 --> []
 team2 --> []
 
 
+dict:
+<<<----->>>>
+
+instgram 10 lacks
+user name passwwor
+
+0 --> kjashsajlas
+1 -->askjsnsa
+2-->12345
+
+0 -->student
+1 -->student
+
+
+rollno -- name
+
+0 ->gandhinar
+1-->mumbai
+2-->panji
+
+guj --> gandhinagar
+
+
+KEY:value pair
+dict:
+
+1)dict is dynamic
+2)dict stores data in key:value
+3)in dict all keys will unique
+4)dict allows duplicate values
+5)dict is mutable
+6)dict key,value are hetrogenious
+7)data type of dict is dict
+8)will user  {} braces to declare dict
+9)dict is iterable
+10)dict is supscriptable
 
 
 
